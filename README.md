@@ -1,4 +1,4 @@
-## Indian Equity Market Prediction wigth Linear Regression
+## Indian Equity Market Prediction with Linear Regression
 
 
 Dataset (2000 -2010) for our model training was obtained from [Quandl](https://www.quandl.com/data/TC1/HDFC)
